@@ -63,7 +63,7 @@
         </div>
         <div>
           <i class="fa-solid fa-phone"></i>&nbsp;
-          +51 989 781 112
+          +51 999 999 999
         </div>
         <div class="flex sm:justify-center">
           <a class="bg-slate-500 text-white w-[40px] h-[40px] flex justify-center items-center rounded-full cursor-pointer">
